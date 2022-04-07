@@ -16,7 +16,7 @@ Here is a simple code that demonstrates how you can use gramformer. to correct e
 
 ### Source Code and Output
 <p align="center">
-  <a href="asset/gramformer.png"><img height="600" src="https://user-images.githubusercontent.com/85709371/162176095-1e4cc520-cc39-4157-9761-d1240bb075fd.png" alt="output"></a>
+  <a href="asset/gramformer.png"><img height="600" src="" alt="output"></a>
 </p>
 
 ## *Author Name*
