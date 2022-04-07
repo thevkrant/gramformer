@@ -13,21 +13,7 @@ Here is a simple code that demonstrates how you can use gramformer. to correct e
 `Python 3`
 
 ### Source Code
-```python3
-from gramformer import Gramformer
 
-# instantiate the model
-gf = Gramformer(models=1, use_gpu=False)  # model 1 is a corrector
-
-sentences = ['My name was Vikrant', 'I hates walking night',
-             'The city is were I work', 'I has no children']
-
-for sentence in sentences:
-    correct_sentences = gf.correct(sentence)
-    print('[Orignal Sentence]', sentence)
-    for correct_sentences in correct_sentences:
-        print('[Correct sentence]', correct_sentences)
-```
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
