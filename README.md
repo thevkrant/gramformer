@@ -6,13 +6,15 @@
 
 ### Python tip:
 - Do you know that we can correct grammar errors in text using Python?
-we can use an open source framework, gramformer. Gramformer (created by Prithiviraj Damodaran) is a framework for highlighting, and correcting grammar errors on natural language text.
+
+We can use an open source framework, gramformer. Gramformer (created by Prithiviraj Damodaran) is a framework for highlighting, and correcting grammar errors on natural language text.
 Here is a simple code that demonstrates how you can use gramformer. to correct errors in a text.
 
 ### Prerequisites
 `Python 3`
+`gramformer`
 
-### Source Code
+### Source Code and Output
 
 
 ## *Author Name*
