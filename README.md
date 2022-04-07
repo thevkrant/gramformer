@@ -16,7 +16,7 @@ Here is a simple code that demonstrates how you can use gramformer. to correct e
 
 ### Source Code and Output
 <p align="center">
-  <a href="Output/newplot.png"><img src="https://user-images.githubusercontent.com/85709371/161957517-220027a9-e295-4253-8a2d-e15e2b242eb6.png" alt="output"></a>
+  <a href="Output/carbon.png"><img src="![carbon](https://user-images.githubusercontent.com/85709371/162176095-1e4cc520-cc39-4157-9761-d1240bb075fd.png)" alt="output"></a>
 </p>
 
 ## *Author Name*
