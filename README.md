@@ -15,7 +15,9 @@ Here is a simple code that demonstrates how you can use gramformer. to correct e
 `gramformer`
 
 ### Source Code and Output
-
+<p align="center">
+  <a href="Output/newplot.png"><img src="https://user-images.githubusercontent.com/85709371/161957517-220027a9-e295-4253-8a2d-e15e2b242eb6.png" alt="output"></a>
+</p>
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
